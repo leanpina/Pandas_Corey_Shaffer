@@ -4,3 +4,5 @@ Pandas Learning based on videos shared by Youtube channel (https://www.youtube.c
 Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns (https://www.youtube.com/watch?v=zmdjNSmRXF4&t=422s)
 
 Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes (https://www.youtube.com/watch?v=W9XjRYFkkyw)
+
+Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns (https://www.youtube.com/watch?v=Lw2rlcxScZY)
