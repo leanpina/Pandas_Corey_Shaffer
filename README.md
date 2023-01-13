@@ -8,3 +8,4 @@
 |Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames| https://www.youtube.com/watch?v=DCDe29sIKcE     |     
 |Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames|https://www.youtube.com/watch?v=HQ6XO9eT-fc|
 |Python Pandas Tutorial (Part 7): Sorting Data | https://www.youtube.com/watch?v=T11QYVfZoD0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=134 |
+|Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data |https://www.youtube.com/watch?v=txMdrV1Ut64&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=135|
